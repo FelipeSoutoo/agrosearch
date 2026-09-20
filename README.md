@@ -160,6 +160,6 @@ implementação, dos testes realizados e da divisão das atividades.
 
 ## Integrantes
 
--   Felipe
--   Arthur
--   Julliane
+-   Felipe Souto Maior Mendes
+-   Arthur Xavier Cavalcante
+-   Julliane Di Paula Oliveira Xavier
