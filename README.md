@@ -33,27 +33,12 @@ O índice invertido, o TF-IDF e a Similaridade de Cosseno foram
 implementados diretamente no código, sem o uso de bibliotecas de alto
 nível como `TfidfVectorizer` do scikit-learn.
 
-## Estrutura do projeto
-
-``` text
-AgroSearch/
-├── app.py
-├── requirements.txt
-├── Relatorio_AgroSearch.pdf
-├── README.md
-└── .gitignore
-```
-
-A pasta `.venv` utilizada no desenvolvimento é local e não deve ser
-enviada ao repositório.
-
 ## Como executar
 
 ### 1. Clonar o repositório
 
 ``` bash
 git clone URL_DO_REPOSITORIO
-cd AgroSearch
 ```
 
 ### 2. Criar o ambiente virtual
@@ -152,11 +137,6 @@ nitrogênio milho
 cultivo orgânico
 computador
 ```
-
-## Relatório
-
-O arquivo `Relatorio_AgroSearch.pdf` contém uma descrição resumida da
-implementação, dos testes realizados e da divisão das atividades.
 
 ## Integrantes
 
